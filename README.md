@@ -7,7 +7,7 @@
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-tropico">
-        <img src="https://github-profile-tropico.vercel.app/?username=samuelsena" alt="samuelsena" />
+        <img src="https://github-profile-tropico.vercel.app/?username=samuelsena1995" alt="samuelsena" />
     </a>
 </p>
 
