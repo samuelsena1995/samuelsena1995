@@ -2,7 +2,7 @@
 <h3 align="center">Un apasionado desarrollador backend de Bolivia - Santa Cruz de la Sierra</h3>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=samuelsena&label=Profile%20views&color=0e75b6&style=flat" alt="samuelsena" />
+    <img src="https://komarev.com/ghpvc/?username=samuelsena1195&label=Profile%20views&color=0e75b6&style=flat" alt="samuelsena" />
 </p>
 
 <p align="left">
